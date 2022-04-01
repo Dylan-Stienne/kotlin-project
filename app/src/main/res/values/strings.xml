@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dylan app</string>
+    <string name="hint_input_email">Email</string>
+    <string name="hint_input_password">Mot de passe</string>
+    <string name="hint_input_city">Choissez une ville</string>
+    <string name="login_form_button">Me connecter</string>
+    <string name="city_choose_button">Valider</string>
+    <string name="no_bot_input">Je ne suis pas un robot</string>
+    <string name="input_error_empty_field">Ce champs est obligatoire</string>
+    <string name="input_error_regex_email">Email incorrect</string>
+    <string name="input_error_regex_password">Mot de passe trop faible</string>
+    <string name="input_error_regex_password_no_lower_letter">Ajouter une minuscule</string>
+    <string name="input_error_regex_password_no_upper_letter">Ajouter une majuscule</string>
+    <string name="input_error_regex_password_no_number">Ajouter un chiffre</string>
+    <string name="input_error_regex_password_no_special_char">Ajouter un caractère spécial</string>
+    <string name="input_error_regex_password_to_short">Mot de passe trop court</string>
+    <string name="hello_email_template">Bonjour %s</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map_pointer_template">Bienvenue à %s</string>
+</resources>
